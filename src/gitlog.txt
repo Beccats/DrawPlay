@@ -3,3 +3,7 @@ Author: Beccats <rtsmith@mymail.mines.edu>
 Date:   Thu Feb 18 14:08:49 2021 -0600
 
     initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
