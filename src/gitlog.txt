@@ -7,3 +7,32 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+commit 3da4c5dc96763905839e6d2ed582729c6be80bc8
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:43:26 2021 -0700
+
+    Changed eye color to blue (Kayla)
+
+commit 278c656a10737b5b91dce1cbf8e874ad61228f7c
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:30:28 2021 -0700
+
+    Changed the color of cat's eyes to blue (Kayla)
+
+commit eda0ebeebce8c089c5b1298d2ca0e4d33e5c14d1
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:26:35 2021 -0700
+
+    initial commit
+
+commit ba433966c6ff32040dfb3d8a988f0e54b303600f
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:22:48 2021 -0700
+
+    Changed the color of cat's eyes to blue (Kayla)
+
+commit 891fa091e4cbdaa30ebb4f1e1c591d925f67ba18
+Author: Beccats <rtsmith@mymail.mines.edu>
+Date:   Thu Feb 18 14:08:49 2021 -0600
+
+    initial commit
