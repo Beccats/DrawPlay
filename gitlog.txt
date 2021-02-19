@@ -103,3 +103,5 @@ Untracked files:
 nothing added to commit but untracked files present
 [main 8d44fa1] Kayla changed eye width
  1 file changed, 7 insertions(+)
+[main eee231b] Kayla increased EYE_WIDTH
+ 1 file changed, 2 insertions(+)
