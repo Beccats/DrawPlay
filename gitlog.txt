@@ -1,0 +1,96 @@
+commit 6012b9d8d0217a4c6aa410659f5f5c4290071da3
+Author: Beccats <rtsmith@mymail.mines.edu>
+Date:   Thu Feb 18 14:53:02 2021 -0600
+
+    changed cats color to white (Becca).
+
+commit 9506bbebb27c1e791e9c6f605e122012ed2b0b0c
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:47:57 2021 -0700
+
+    Changed text color to green (kayla)
+
+commit 3da4c5dc96763905839e6d2ed582729c6be80bc8
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:43:26 2021 -0700
+
+    Changed eye color to blue (Kayla)
+
+commit 278c656a10737b5b91dce1cbf8e874ad61228f7c
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:30:28 2021 -0700
+
+    Changed the color of cat's eyes to blue (Kayla)
+
+commit eda0ebeebce8c089c5b1298d2ca0e4d33e5c14d1
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:26:35 2021 -0700
+
+    initial commit
+
+commit ba433966c6ff32040dfb3d8a988f0e54b303600f
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:22:48 2021 -0700
+
+    Changed the color of cat's eyes to blue (Kayla)
+
+commit 891fa091e4cbdaa30ebb4f1e1c591d925f67ba18
+Author: Beccats <rtsmith@mymail.mines.edu>
+Date:   Thu Feb 18 14:08:49 2021 -0600
+
+    initial commit
+commit fa1404e477bb6741d048e28619910ba70f8d2aa3
+Author: Beccats <rtsmith@mymail.mines.edu>
+Date:   Thu Feb 18 14:55:25 2021 -0600
+
+    Changed mouth color to red (Becca)
+
+commit 6012b9d8d0217a4c6aa410659f5f5c4290071da3
+Author: Beccats <rtsmith@mymail.mines.edu>
+Date:   Thu Feb 18 14:53:02 2021 -0600
+
+    changed cats color to white (Becca).
+
+commit 9506bbebb27c1e791e9c6f605e122012ed2b0b0c
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:47:57 2021 -0700
+
+    Changed text color to green (kayla)
+
+commit 3da4c5dc96763905839e6d2ed582729c6be80bc8
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:43:26 2021 -0700
+
+    Changed eye color to blue (Kayla)
+
+commit 278c656a10737b5b91dce1cbf8e874ad61228f7c
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:30:28 2021 -0700
+
+    Changed the color of cat's eyes to blue (Kayla)
+
+commit eda0ebeebce8c089c5b1298d2ca0e4d33e5c14d1
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:26:35 2021 -0700
+
+    initial commit
+
+commit ba433966c6ff32040dfb3d8a988f0e54b303600f
+Author: kaylschl <[schlichtemeier@mymail.mines.edu]>
+Date:   Thu Feb 18 13:22:48 2021 -0700
+
+    Changed the color of cat's eyes to blue (Kayla)
+
+commit 891fa091e4cbdaa30ebb4f1e1c591d925f67ba18
+Author: Beccats <rtsmith@mymail.mines.edu>
+Date:   Thu Feb 18 14:08:49 2021 -0600
+
+    initial commit
+fa1404e477bb6741d048e28619910ba70f8d2aa3 Changed mouth color to red (Becca)
+6012b9d8d0217a4c6aa410659f5f5c4290071da3 changed cats color to white (Becca).
+9506bbebb27c1e791e9c6f605e122012ed2b0b0c Changed text color to green (kayla)
+3da4c5dc96763905839e6d2ed582729c6be80bc8 Changed eye color to blue (Kayla)
+278c656a10737b5b91dce1cbf8e874ad61228f7c Changed the color of cat's eyes to blue (Kayla)
+eda0ebeebce8c089c5b1298d2ca0e4d33e5c14d1 initial commit
+ba433966c6ff32040dfb3d8a988f0e54b303600f Changed the color of cat's eyes to blue (Kayla)
+891fa091e4cbdaa30ebb4f1e1c591d925f67ba18 initial commit
